@@ -1,0 +1,22 @@
+/* box */
+/* 높이:100, 넓이:100, 컨텐츠 가운데로, 배경색은 여러분들이 좋아하는 색으로 */
+.box {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.button {
+    width: 170px;
+    height: 50px;
+    background-color: #F7F7FA;
+    border-radius: 10px;
+    padding: 1px 6px 1px 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+    color: #373855;
+
+}
