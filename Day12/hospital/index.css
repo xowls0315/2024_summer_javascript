@@ -1,0 +1,15 @@
+.hospital {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 300px;
+    padding: 5px 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-size: 14px;
+}
